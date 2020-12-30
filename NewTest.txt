@@ -1,2 +1,2 @@
 Helo from stdout.
-making a new commit. Adding the second line in nano.
+making a new commit. Adding the second line in nano.Making a bugFix in 2 line.
