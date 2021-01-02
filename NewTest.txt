@@ -4,3 +4,6 @@ making a new commit. Adding the second line in nano.Making a bugFix in 2 line.
 Hello, it's Marichka!
 Whats`uo ?!
 my new branch, pull it
+Adding the 6th line - task 6.
+Adding the 7th line - task7.
+
