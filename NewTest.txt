@@ -1,2 +1,3 @@
 Helo from stdout.
 making a new commit. Adding the second line in nano.Making a bugFix in 2 line.
+3th line from Marichka`s home.
